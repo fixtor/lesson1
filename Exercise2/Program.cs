@@ -1,4 +1,4 @@
-﻿int[] arr = { 1, 2, 38, 5, 4, 5, 6, 74, 3, 2, };
+﻿int[] arr = { 1, 2, 38, 5, 4, 5, 6, 74, 3, 2, 198, 208, 11, 15};
 void PrintArray(int[] array)
 {
     int count = array.Length;
